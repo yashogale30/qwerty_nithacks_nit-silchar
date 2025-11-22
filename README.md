@@ -1,6 +1,6 @@
 # Healthcare+
 
-**Healthcare+: An AI-Powered Health Companion**
+**Healthcare+: Innovating Digital Health for a smarter tomorrow**
 
 Healthcare+ is a multimodal AI-driven health ecosystem that unifies fitness, nutrition, mental health, and medical care into a single intelligent platform. It enables proactive, data-driven health management through predictive analytics, computer vision, natural language processing, and generative AI.
 
